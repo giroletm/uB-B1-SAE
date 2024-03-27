@@ -1,0 +1,115 @@
+{
+  "spetiles": [
+    {
+      "Name": "Warp",
+      "ID": 0,
+      "Settings": [
+        {
+          "IName": "Filename",
+          "DName": "Filename",
+          "Type": "string"
+        },
+        {
+          "IName": "EID",
+          "DName": "Entrance ID",
+          "Type": "number"
+        }
+      ]
+    },
+    {
+      "Name": "Collision override",
+      "ID": 1,
+      "Settings": [
+        {
+          "IName": "EventIDE",
+          "DName": "Enable event ID",
+          "Type": "number"
+        },
+        {
+          "IName": "EventIDD",
+          "DName": "Disable event ID",
+          "Type": "number"
+        },
+        {
+          "IName": "Solid",
+          "DName": "Solide",
+          "Type": "boolean"
+        }
+      ]
+    },
+    {
+      "Name": "Entrance",
+      "ID": 2,
+      "Settings": [
+        {
+          "IName": "ID",
+          "DName": "ID",
+          "Type": "number"
+        },
+        {
+          "IName": "Direction",
+          "DName": "Direction (0=Droite;1=Bas;2=Gauche;3=Haut)",
+          "Type": "number"
+        }
+      ]
+    },
+    {
+      "Name": "Pickupable Item",
+      "ID": 3,
+      "Settings": [
+        {
+          "IName": "UID",
+          "DName": "Unique ID",
+          "Type": "number"
+        },
+        {
+          "IName": "Type",
+          "DName": "Type",
+          "Type": "number"
+        },
+        {
+          "IName": "TEID",
+          "DName": "Triggering Event ID",
+          "Type": "number"
+        }
+      ]
+    },
+    {
+      "Name": "PNJ",
+      "ID": 4,
+      "Settings": [
+        {
+          "IName": "Type",
+          "DName": "Type",
+          "Type": "number"
+        },
+        {
+          "IName": "TEID",
+          "DName": "Triggering Event ID",
+          "Type": "number"
+        },
+        {
+          "IName": "Direction",
+          "DName": "Direction (0=Droite;1=Bas;2=Gauche;3=Haut)",
+          "Type": "number"
+        }
+      ]
+    },
+    {
+      "Name": "Cactus",
+      "ID": 5,
+      "Settings": []
+    },
+    {
+      "Name": "Chest",
+      "ID": 6,
+      "Settings": [
+        {
+          "IName": "InvID",
+          "DName": "Inventory ID",
+          "Type": "number"
+        }
+      ]
+    }
+  ]
+}

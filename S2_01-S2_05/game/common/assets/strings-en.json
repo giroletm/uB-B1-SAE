@@ -1,0 +1,164 @@
+{
+	"titlescreen.newgame": "New Game",
+	"titlescreen.continue": "Continue",
+	"titlescreen.exit": "Exit",
+
+	"pause.gameover": "Game Over",
+	"pause.paused": "Paused",
+
+	"item.0.name": "Toilet paper",
+	"item.0.desc": "Perfect to wipe yourself",
+	"item.1.name": "Broken wine bottle",
+	"item.1.desc": "Likely rotten",
+	"item.2.name": "Copy",
+	"item.2.desc": "A student's copy, lost by Flo",
+	"item.3.name": "Chainsaw",
+	"item.3.desc": "?!",
+	"item.4.name": "Coffee",
+	"item.4.desc": "Caffeine...",
+
+	"menu.btn.inventory": "Inventory",
+	"menu.btn.save": "Save",
+	"menu.btn.quit": "Quit",
+
+	"inventory.player": "Inventory",
+	"inventory.chest": "Chest",
+
+	"dlg.yes": "Yes",
+	"dlg.no": "No",
+
+	"dlg.flo.title": "Flo",
+	"dlg.flo.0": "Whoops! I can't find my architecture\ncopies! If I don't give them back\nto my students in time, they are going\nto kill me!",
+	"dlg.flo.1": "I need to find them...",
+	"dlg.flo.2": "Oh, I know! I'll go ask Max, maybe\ndid he see them! If I recall correctly,\nhe recently moved to the Blue village.",
+	"dlg.flo.noinventoryspace": "There isn't enough space in your\ninventory.",
+
+	"dlg.max.title": "Max",
+	"dlg.max.b0": "Yo! What's up bro?",
+	"dlg.max.b0c": "I lost\nmy copies",
+	"dlg.max.b1": "Ah, damn! You have to look for them.\nI'd happily give you a hand, but I\nhave my Aquaponey class to attend to.",
+	"dlg.max.b2": "You need to explore as many areas as you\ncan, I'm afraid that due to the wind,\nyour copies have flown to various parts\nof the island.",
+	"dlg.max.b3": "I wouldn't be surprised if some ended up\nin the Red village, or worse, in the\nsnowy areas. Maybe some of them aren't\nfar from here too.",
+	"dlg.max.b4": "With some luck, someone might have found\none and will give it back to you if you\nask nicely. Either way, good luck!\nFeel free to come back if you get stuck.",
+
+	"dlg.max.c0": "You've found all of them, congrats!",
+	"dlg.max.c1": "...",
+	"dlg.max.c2": ".........\n.........\n.........\n.........",
+	"dlg.max.c3": "What do we do now?",
+	"dlg.max.c3c": "The game is\nfinished,\nisn't it?",
+	"dlg.max.c4": "...Yeah, that's likely.",
+	"dlg.max.c5": "Well then, the end.",
+	"dlg.max.c6": "You're not supposed to see this text.",
+
+	"dlg.max.a0": "Hey there! Have you found your copies?",
+	"dlg.max.a1": "Do you want to hear my poem again?",
+	"dlg.max.o1.1": "I don't think you actually have found\nthem all yet...",
+	"dlg.max.o1.2": "Congrats !",
+	"dlg.max.o2.1": "Here's a riddle! If you succeed,\nI'll help you.",
+	"dlg.max.o2.2": "Are french \"automates\" aufruits\nor auvegetables?",
+	"dlg.max.r1": "Aufruits",
+	"dlg.max.r2": "Auvegetables",
+	"dlg.max.rep1": "Nope! Sorry, try again later.",
+	"dlg.max.rep2": "Congrats! Here is a poem I have\nwritten in french to help you.",
+	"dlg.max.o3": "\"Demain, dès l’aube,\nà l’heure où blanchit la campagne,\nTu partiras. Vois-tu,\ntu sais que je t’attends.",
+	"dlg.max.o4": "Tu iras par le désert,\ntu iras par le village.\nJe ne puis demeurer loin\nde toi plus longtemps.",
+	"dlg.max.o5": "Tu marcheras les yeux fixés sur\ntes pensées,\nSans rien voir au dehors,\nsans entendre aucun son,",
+	"dlg.max.o6": "Seul, inconnu, le dos courbé,\nles mains croisées,\nTriste, et le jour pour toi sera comme\ndu Python.",
+	"dlg.max.o7": "Je ne regarderai ni l’or du soir qui\ntombe,\nNi les voiles au loin descendant vers le\nKFC,",
+	"dlg.max.o8": "Et quand j’arriverai, je mettrai sur\nta tombe\nUn paquet de DS à corriger.\"",
+	"dlg.max.n1": "Need some help bro?",
+	"dlg.max.n2": "Good luck!",
+
+	"dlg.alex.title": "Alex",
+	"dlg.alex.a0": "Hello! Do you want some coffee?",
+	"dlg.alex.rep1": "You'll find some in the chest!",
+	"dlg.alex.rep2": "No problem!",
+	"dlg.alex.port": "No phones here!",
+
+	"dlg.tutorial.0": "You can move using the arrow keys\nor WASD. You can also interact with\nvarious elements using the ZXC keys\nor the Enter key.",
+	"dlg.tutorial.1": "You can open your inventory using the\nI key, and a menu is available\nat the top right corner of the screen.",
+	"dlg.tutorial.2": "You can pause the game or close a menu\nusing the ESCAPE key.",
+	"dlg.tutorial.3": "You can also sprint by holding the\nSHIFT key.",
+
+	"dlg.pnj3.title": "Riri",
+	"dlg.pnj3.0": "Hi. What can I do for you?",
+	"dlg.pnj3.repDS": "I'm looking for\nmy copies.",
+	"dlg.pnj3.repN": "No, nothing.",
+	"dlg.pnj3.1": "Your copies? Are they these\nmysterious pieces of paper I've seen\neverywhere? Here, I kept one.",
+	"dlg.pnj3.2": "Riri gave you a copy.",
+	"dlg.pnj3.3": "Good luck.",
+
+	"dlg.pnj2.title": "Fifi",
+	"dlg.pnj2.0": "Hello !",
+	"dlg.pnj2.rep": "Have you seen\nmy copies ?",
+	"dlg.pnj2.1": "I think I've seen one in a\nchest at the Red village's square.",
+
+	"dlg.pnj1.title": "Loulou",
+	"dlg.pnj1.1": "Hi, may you please help me?",
+	"dlg.pnj1.2": "I'm looking for the Blue village, would\nyou happen to know in which direction\nit is?",
+	"dlg.pnj1.repN": "North",
+	"dlg.pnj1.repS": "South",
+	"dlg.pnj1.repW": "West",
+	"dlg.pnj1.repE": "Est",
+	"dlg.pnj1.3": "Thank you!",
+	"dlg.pnj1.4": "You lied! The Blue village was on the\nSouth!",
+	"dlg.pnj1.5": "Thank you very much, I could find\nmy way thanks to you.",
+
+	"credits.line.1": "Congratulations, you have managed to find all copies.",
+	"credits.line.2": "Now the students will be able to receive their grades.",
+	"credits.line.3": "Thank you for playing our game.",
+	"credits.line.4": "See you soon!\n\n\n",
+
+	"credits.line.5": "\n\nCredits:\n\n",
+
+	"credits.line.6": "Les aventures de Max-Flo",
+	"credits.line.7": "A game by Tahar, Matthieu & Agathe\n\n",
+
+	"credits.line.8": "Main game framework",
+	"credits.line.9": "SDL2 by Sam Lantinga & Contributors\n\n",
+
+	"credits.line.10": "Core game mechanics",
+	"credits.line.11": "Matthieu\n\n",
+
+	"credits.line.12": "Actor system & State machine",
+	"credits.line.13": "Matthieu\n\n",
+
+	"credits.line.14": "Map system",
+	"credits.line.15": "Matthieu\n\n",
+
+	"credits.line.16": "Health system",
+	"credits.line.17": "Agathe\n\n",
+
+	"credits.line.18": "NPC programming & dialogues",
+	"credits.line.19": "Agathe\n\n",
+
+	"credits.line.20": "Textbox programming",
+	"credits.line.21": "Agathe\n\n",
+
+	"credits.line.22": "Inventories programming",
+	"credits.line.23": "Tahar\n\n",
+
+	"credits.line.24": "Map design",
+	"credits.line.25": "Tahar\n\n",
+
+	"credits.line.28": "Character design",
+	"credits.line.29": "Tahar\n\n",
+
+	"credits.line.26": "Sound design",
+	"credits.line.27": "Matthieu\n\n",
+
+	"credits.line.30": "Scenario",
+	"credits.line.31": "Tahar\nMatthieu\nAgathe\n\n",
+
+	"credits.line.32": "Original sound track",
+	"credits.line.33": "Étienne\n\n",
+
+	"credits.line.34": "Tilesets & textures",
+	"credits.line.35": "RPG Maker\n\n",
+
+	"credits.line.36": "Sound effects",
+	"credits.line.37": "Undertale\nMinecraft\n\n",
+
+	"credits.line.38": "Android port:",
+	"credits.line.39": "Matthieu\n\n"
+}

@@ -1,0 +1,2 @@
+g++ src/main.cpp src/io.cpp src/highscores.cpp src/pong.cpp src/snake.cpp src/morpion.cpp src/batonnets.cpp src/shifumi.cpp src/psquatre.cpp src/blackjack.cpp src/pokemon.cpp src/ba.cpp -o build/Game.exe
+pause

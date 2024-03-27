@@ -1,0 +1,12 @@
+[submodule "S2_01-S2_05/game/libs/SDL"]
+	path = S2_01-S2_05/game/libs/SDL
+	url = https://github.com/libsdl-org/SDL
+[submodule "S2_01-S2_05/game/libs/SDL_image"]
+	path = S2_01-S2_05/game/libs/SDL_image
+	url = https://github.com/libsdl-org/SDL_image
+[submodule "S2_01-S2_05/game/libs/SDL_ttf"]
+	path = S2_01-S2_05/game/libs/SDL_ttf
+	url = https://github.com/libsdl-org/SDL_ttf
+[submodule "S2_01-S2_05/game/libs/SDL_mixer"]
+	path = S2_01-S2_05/game/libs/SDL_mixer
+	url = https://github.com/libsdl-org/SDL_mixer

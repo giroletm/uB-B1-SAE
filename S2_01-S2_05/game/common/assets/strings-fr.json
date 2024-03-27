@@ -1,0 +1,164 @@
+{
+	"titlescreen.newgame": "Nouveau",
+	"titlescreen.continue": "Continuer",
+	"titlescreen.exit": "Quitter",
+
+	"pause.gameover": "Game Over",
+	"pause.paused": "En pause",
+
+	"item.0.name": "Rouleau de PQ",
+	"item.0.desc": "Parfait pour bien se torcher",
+	"item.1.name": "Bouteille de vin cassée",
+	"item.1.desc": "Probablement pourrie",
+	"item.2.name": "DS",
+	"item.2.desc": "Une copie d'élève, perdue par Flo",
+	"item.3.name": "Tronçonneuse",
+	"item.3.desc": "?!",
+	"item.4.name": "Café",
+	"item.4.desc": "La caféine...",
+
+	"menu.btn.inventory": "Inventaire",
+	"menu.btn.save": "Sauver",
+	"menu.btn.quit": "Quitter",
+
+	"inventory.player": "Inventaire",
+	"inventory.chest": "Coffre",
+
+	"dlg.yes": "Oui",
+	"dlg.no": "Non",
+
+	"dlg.flo.title": "Flo",
+	"dlg.flo.0": "Mince ! Je ne retrouve pas mes DS\nd'archi ! Si je ne les rend pas à mes\nélèves dans les temps, ils vont me tuer !",
+	"dlg.flo.1": "Il faut que je les retrouve...",
+	"dlg.flo.2": "Oh, je sais ! Je vais aller demander\nà Max, peut-être qu'il les as vu !\nIl me semble qu'il a récemment déménagé\ndans le village Bleu.",
+	"dlg.flo.noinventoryspace": "Vous n'avez pas assez de place dans\nvotre inventaire.",
+
+	"dlg.max.title": "Max",
+	"dlg.max.b0": "Salut ! Quoi d'neuf mon reuf ?",
+	"dlg.max.b0c": "J'ai perdu\nmes DS",
+	"dlg.max.b1": "Ah mince ! Pas le choix, il\nva falloir que tu les cherche.\nJe te donnerais bien un coup de main,\nmais mon cours d'Aquaponey m'en empêche.",
+	"dlg.max.b2": "Il faut que tu explore autant de zones\nque tu le peux, j'ai bien peur qu'à\ncause du vent, certaines de tes copies\nse soient envolées vers un peu partout.",
+	"dlg.max.b3": "Je ne serais pas étonné que certaines\naient atterri au village Rouge, ou pire,\ndans les zones enneigées. Peut-être que\ncertaines sont par ici également.",
+	"dlg.max.b4": "Avec un peu de chance, quelqu'un en a\npeut-être trouvé une et te la rendra si\ntu demandes. En tout cas, bonne chance !\nViens me voir si tu bloques.",
+
+	"dlg.max.c0": "Tu les as toutes trouvées, Bravo !",
+	"dlg.max.c1": "...",
+	"dlg.max.c2": ".........\n.........\n.........\n.........",
+	"dlg.max.c3": "On fait quoi maintenant ?",
+	"dlg.max.c3c": "Le jeu est\nfini, nan ?",
+	"dlg.max.c4": "...Y'a moyen, oui.",
+	"dlg.max.c5": "Bon bah, fin.",
+	"dlg.max.c6": "Ce texte n'est pas censé être visible.",
+
+	"dlg.max.a0": "Salut ! Alors, tu as retrouvé tes\ncopies ?",
+	"dlg.max.a1": "Veux tu entendre de nouveau le poème ?",
+	"dlg.max.o1.1": "Il ne me semble pas que tu aies encore\ntoutes tes copies...",
+	"dlg.max.o1.2": "Bravo !",
+	"dlg.max.o2.1": "Petite devinette ! Si tu réussis,\nje t'aiderais.",
+	"dlg.max.o2.2": "Les automates sont-ils des aufruits\nou des aulégumes ?",
+	"dlg.max.r1": "Aufruits",
+	"dlg.max.r2": "Aulégumes",
+	"dlg.max.rep1": "Et non ! Désolé, retente ta chance plus\ntard.",
+	"dlg.max.rep2": "Bravo ! Voici un poème que j'ai\nécrit pour t'aider.",
+	"dlg.max.o3": "\"Demain, dès l’aube,\nà l’heure où blanchit la campagne,\nTu partiras. Vois-tu,\ntu sais que je t’attends.",
+	"dlg.max.o4": "Tu iras par le désert,\ntu iras par le village.\nJe ne puis demeurer loin\nde toi plus longtemps.",
+	"dlg.max.o5": "Tu marcheras les yeux fixés sur\ntes pensées,\nSans rien voir au dehors,\nsans entendre aucun son,",
+	"dlg.max.o6": "Seul, inconnu, le dos courbé,\nles mains croisées,\nTriste, et le jour pour toi sera comme\ndu Python.",
+	"dlg.max.o7": "Je ne regarderai ni l’or du soir qui\ntombe,\nNi les voiles au loin descendant vers le\nKFC,",
+	"dlg.max.o8": "Et quand j’arriverai, je mettrai sur\nta tombe\nUn paquet de DS à corriger.\"",
+	"dlg.max.n1": "Tu veux de l’aide mon bro ?",
+	"dlg.max.n2": "Bonne chance dans tes recherches !",
+
+	"dlg.alex.title": "Alex",
+	"dlg.alex.a0": "Coucou ! Veux-tu du café ?",
+	"dlg.alex.rep1": "Tu trouvera du café dans le coffre !",
+	"dlg.alex.rep2": "Pas de soucis !",
+	"dlg.alex.port": "Pas de portable ici !",
+
+	"dlg.tutorial.0": "Vous pouvez vous déplacer avec les\nflèches ou avec ZQSD. Vous pouvez\ninteragir avec des éléments grâce aux\ntouches WXC ou Entrée.",
+	"dlg.tutorial.1": "Vous pouvez ouvrir votre inventaire\navec la touche I, et un menu est\ndisponible en haut à droite de l'écran.",
+	"dlg.tutorial.2": "Vous pouvez mettre le jeu en pause\nou quitter un menu avec la touche\nECHAP.",
+	"dlg.tutorial.3": "Vous pouvez également sprinter en\nmaintenant la touche SHIFT.",
+
+	"dlg.pnj3.title": "Riri",
+	"dlg.pnj3.0": "Bonjour. Que puis-je pour vous ?",
+	"dlg.pnj3.repDS": "Je recherche\nmes DS.",
+	"dlg.pnj3.repN": "Non, rien.",
+	"dlg.pnj3.1": "Vos DS ? Serais-ce ces mystérieux\npapiers que j'ai vu un peu partout ?\nTenez, j'en ai ramassé un.",
+	"dlg.pnj3.2": "Riri vous a donné un DS.",
+	"dlg.pnj3.3": "Bonne chance à vous.",
+
+	"dlg.pnj2.title": "Fifi",
+	"dlg.pnj2.0": "Bonjour !",
+	"dlg.pnj2.rep": "Auriez vous vu\nmes DS ?",
+	"dlg.pnj2.1": "Je pense avoir vu une copie dans\nle coffre sur la place du village rouge.",
+
+	"dlg.pnj1.title": "Loulou",
+	"dlg.pnj1.1": "Pourriez-vous m'aider ?",
+	"dlg.pnj1.2": "Je cherche mon chemin, saurais-tu ou se\ntrouve le village bleu ?",
+	"dlg.pnj1.repN": "Nord",
+	"dlg.pnj1.repS": "Sud",
+	"dlg.pnj1.repW": "Ouest",
+	"dlg.pnj1.repE": "Est",
+	"dlg.pnj1.3": "Merci !",
+	"dlg.pnj1.4": "Tu m'as menti ! Le village bleu était\nau sud !",
+	"dlg.pnj1.5": "Merci beaucoup, j'ai pu trouver mon\nchemin grâce à toi.",
+
+	"credits.line.1": "Félicitations, vous avez trouvé tous les DS.",
+	"credits.line.2": "Les élèves vont pouvoir être notés.",
+	"credits.line.3": "Merci d'avoir joué à notre jeu.",
+	"credits.line.4": "À bientôt!\n\n\n",
+
+	"credits.line.5": "\n\nCrédits:\n\n",
+
+	"credits.line.6": "Les aventures de Max-Flo",
+	"credits.line.7": "Un jeu de Tahar, Matthieu & Agathe\n\n",
+
+	"credits.line.8": "Framework cœur du jeu",
+	"credits.line.9": "SDL2 par Sam LANTINGA & Contributeurs\n\n",
+
+	"credits.line.10": "Mécaniques principales",
+	"credits.line.11": "Matthieu\n\n",
+
+	"credits.line.12": "Système d'acteurs & Machine d'états",
+	"credits.line.13": "Matthieu\n\n",
+
+	"credits.line.14": "Système de carte",
+	"credits.line.15": "Matthieu\n\n",
+
+	"credits.line.16": "Système de vie",
+	"credits.line.17": "Agathe\n\n",
+
+	"credits.line.18": "Programmation PNJs & dialogues",
+	"credits.line.19": "Agathe\n\n",
+
+	"credits.line.20": "Programmation boîtes de texte",
+	"credits.line.21": "Agathe\n\n",
+
+	"credits.line.22": "Programmation inventaires",
+	"credits.line.23": "Tahar\n\n",
+
+	"credits.line.24": "Design des cartes",
+	"credits.line.25": "Tahar\n\n",
+
+	"credits.line.28": "Design des personnages",
+	"credits.line.29": "Tahar\n\n",
+
+	"credits.line.26": "Design du son",
+	"credits.line.27": "Matthieu\n\n",
+
+	"credits.line.30": "Scénario",
+	"credits.line.31": "Tahar\nMatthieu\nAgathe\n\n",
+
+	"credits.line.32": "Bande son originale",
+	"credits.line.33": "Étienne\n\n",
+
+	"credits.line.34": "Tilesets & textures",
+	"credits.line.35": "RPG Maker\n\n",
+
+	"credits.line.36": "Effets sonores",
+	"credits.line.37": "Undertale\nMinecraft\n\n",
+
+	"credits.line.38": "Portage Android:",
+	"credits.line.39": "Matthieu\n\n"
+}

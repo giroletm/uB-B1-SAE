@@ -1,0 +1,1 @@
+g++ main.cpp Map.cpp Maillage.cpp io.cpp -static-libgcc -static-libstdc++ -o calculateur.exe
