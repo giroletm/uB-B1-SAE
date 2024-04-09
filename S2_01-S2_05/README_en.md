@@ -38,7 +38,7 @@ The repo is structured as follows:
 - Core game mechanics, actor system, state machine, map system, ports, scenario : [Matthieu](https://github.com/giroletm) (me)
 - Health system, NPCs, dialogues, textboxes, scenario : [Agathe](https://github.com/D4cta)
 - Inventories, maps, character design, scenario : [Tahar](https://github.com/TaharChtioui)
-- Original soundtrack : Étienne
+- Original soundtrack : [DJpenzer](https://www.youtube.com/@djpenzer6889)
 - Graphical rendering engine [SDL2](https://github.com/libsdl-org/SDL) and submodules : [Sam LANTINGA](https://github.com/slouken) & [Contributors](https://github.com/libsdl-org/SDL/graphs/contributors)
 - Sprites : [RPG Maker](https://www.rpgmakerweb.com/)
 - Sound effects : [Undertale](https://undertale.com/), [Minecraft](https://www.minecraft.net/)

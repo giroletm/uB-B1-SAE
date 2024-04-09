@@ -36,7 +36,7 @@ Le repo est structuré de la manière suivante :
 - Mécaniques principales, système d'acteurs, machine d'états, système de carte, portages, scénario : [Matthieu](https://github.com/giroletm) (moi)
 - Système de vie, PNJs, dialogues, boîtes de texte, scénario : [Agathe](https://github.com/D4cta)
 - Inventaires, cartes, design des personnages, scénario : [Tahar](https://github.com/TaharChtioui)
-- Bande son originale : Étienne
+- Bande son originale : [DJpenzer](https://www.youtube.com/@djpenzer6889)
 - Moteur de rendu graphique [SDL2](https://github.com/libsdl-org/SDL) et modules : [Sam LANTINGA](https://github.com/slouken) & [Contributeurs](https://github.com/libsdl-org/SDL/graphs/contributors)
 - Sprites : [RPG Maker](https://www.rpgmakerweb.com/)
 - Effets sonores : [Undertale](https://undertale.com/), [Minecraft](https://www.minecraft.net/)
